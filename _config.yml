@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "李嘉澍 / 个人主页"
 title_separator          : "-"
 name                     : &name "李嘉澍"
-description              : &description "personal description"
+description              : &description "一名来自USTC的学生"
 url                      :"https://jsl.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self.jpg"
+  avatar           : "self-1.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "我是一名中国科学技术大学的研一学生，欢迎大家来到我的主页"
@@ -33,11 +33,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -78,11 +78,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: #'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: #'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: #'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
